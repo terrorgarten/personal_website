@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 Hello world, Matěj here. This website is a form of my personal blog, where I'll try to present my current work and give some advice on the technology I have experience with. If I grabbed your attention somewhere on the web and you'd like to start whatever project together, just hit me up, but first, let me tell you a bit about myself here.
 
 ## Who am I?
-I like think of myself as a software maker with main interest in software reliability. I've had major interest in computers from a young age thanks to my dad, who brought me broken ThinkPads from his company to fix and sell. Later I became interested in video games as any other kid. I picked up programming as a hobby at high school and later started studying CS at university. 
+I like think of myself as a software maker with main interest in software reliability. I've had major interest in computers from a young age thanks to my dad, who brought me broken ThinkPads from his company to fix and sell. Later I became interested in video games as any other kid. I picked up programming as a hobby at high school and later started studying CS at university.  
 
 ---
 
